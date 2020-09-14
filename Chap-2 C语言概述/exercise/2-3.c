@@ -7,6 +7,6 @@ int main(void)
 {
   int age = 26;
   int days = age * 365;
-  printf("my age is %d, equals days %d", age, days);
+  printf("my age is %d, equals days %d\ns", age, days);
   return 0;
 }
