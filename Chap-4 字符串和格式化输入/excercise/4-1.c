@@ -9,6 +9,6 @@ int main(void)
   scanf("%s", firstName);
   printf("then please enter your lastName:\n");
   scanf("%s", lastName);
-  printf("Hello! %s,%s", firstName, lastName);
+  printf("Hello! %s,%s\n", firstName, lastName);
   return 0;
 }

@@ -16,10 +16,10 @@ int main(void)
   br();
   printf(",");
   ic();
-  printf("/n");
+  printf("\n");
   ic();
   printf(",");
-  printf("/n");
+  printf("\n");
   br();
   return 0;
 }

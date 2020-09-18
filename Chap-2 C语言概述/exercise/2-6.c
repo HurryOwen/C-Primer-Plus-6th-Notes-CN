@@ -7,7 +7,7 @@
 int main(void)
 {
   int toes = 10;
-  print("toes:%d\n", toes);
+  printf("toes:%d\n", toes);
   printf("toes 的两倍：%d\n", toes * 2);
   printf("toes 的平方：%d\n", toes * toes);
   return 0;

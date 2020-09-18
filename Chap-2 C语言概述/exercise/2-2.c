@@ -4,6 +4,6 @@
 
 int main(void)
 {
-  printf("Emma Ou\n Jian An Road \n ");
+  printf("Emma Ou\n Jian An Road \n");
   return 0;
 }

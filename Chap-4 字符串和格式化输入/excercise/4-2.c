@@ -5,6 +5,7 @@
 // d.在比姓名宽度宽3的字段中打印名和姓。
 
 #include <stdio.h>
+#include <string.h>
 
 int main(void)
 {
